@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Versatile solutions is coming soon
+          Versatile solutions is coming soon!
         </p>
       </div>
       <p className="read-the-docs">
