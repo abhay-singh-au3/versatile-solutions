@@ -21,8 +21,8 @@ function App() {
         <a href='/vs.pdf' download>
           Click here to download our brochure for more details
         </a>
-        <a href='tel:+91-865-750-2979'>
-          +91-865-750-2979
+        <a href='tel:+91-750-634-3513'>
+          +91-750-634-3513
         </a>
         <a href='mailto:chetnasehrra@gmail.com'>
           chetnasehrra@gmail.com
