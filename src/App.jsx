@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
@@ -16,16 +14,22 @@ function App() {
         </a>
       </div>
       <h1>Versatile Solutions</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+      <div style={{ display: 'flex', flexDirection: 'column' }} className="card">
         <p>
-          Versatile solutions is coming soon!
+          Versatile solutions website is under constructions and will be coming soon!
         </p>
+        <a href='/vs.pdf' download>
+          Click here to download our brochure for more details
+        </a>
+        <a href='tel:+91-865-750-2979'>
+          +91-865-750-2979
+        </a>
+        <a href='mailto:chetnasehrra@gmail.com'>
+          chetnasehrra@gmail.com
+        </a>
       </div>
       <p className="read-the-docs">
-        Stay tuned
+        For any queries reach out to us by email / call
       </p>
     </div>
   )
