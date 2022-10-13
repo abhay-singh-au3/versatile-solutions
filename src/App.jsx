@@ -13,10 +13,10 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Versatile Solutions</h1>
+      <h1>Verrsatile Solutions</h1>
       <div style={{ display: 'flex', flexDirection: 'column' }} className="card">
         <p>
-          Versatile solutions website is under constructions and will be coming soon!
+          Verrsatile Solutions website is under constructions and will be coming soon!
         </p>
         <a href='/vs.pdf' download>
           Click here to download our brochure for more details
