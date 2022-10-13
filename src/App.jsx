@@ -27,6 +27,9 @@ function App() {
         <a href='mailto:chetnasehrra@gmail.com'>
           chetnasehrra@gmail.com
         </a>
+        <a href='mailto:chetna@versatile-solutions.in'>
+          chetna@versatile-solutions.in
+        </a>
       </div>
       <p className="read-the-docs">
         For any queries reach out to us by email / call
